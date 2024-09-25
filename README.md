@@ -8,5 +8,5 @@
 # About Me
 ## I am currently interested in pottery
 ## Websites I Recommend
-## * [Britannica](www.britannica.com)
-## * [Wake Tech](ww.waketech.edu)
+## * [Britannica](https://www.britannica.com/)
+## * [Wake Tech](www.waketech.edu)
