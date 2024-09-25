@@ -6,7 +6,7 @@
 # File, Clone repository, and then I opened the repository
 
 # About Me
-## I am currently interested in potery
+## I am currently interested in pottery
 ## Websites I Recommend
 ## * [Britannica](www.britannica.com)
 ## * [Wake Tech](ww.waketech.edu)
